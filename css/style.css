@@ -406,6 +406,9 @@ transition:2s;
     grid-template-columns:60% 40%; 
     text-align: left;    
 }
+.designconcept p{
+    font-size: 18px;
+}
 .light h1 {
     color:#10455B;
 }
@@ -417,8 +420,8 @@ transition:2s;
     margin-left: 0px;
 }
 .designconceptwords{
-    margin-left: 130px;
-    margin-top:70px;   
+    margin-left: 100px;
+    margin-top:55px;   
 }
 .lightslider{
     width: 950px;
@@ -431,6 +434,7 @@ transition:2s;
 .shilogo img{
     width: 80%;
     margin-top: 50px;
+    margin-left: 20px;
 }
 .explodedlight{
     display:grid;
@@ -438,9 +442,12 @@ transition:2s;
     text-align: left;    
     margin-bottom: 50px;
 }
+.explodedlight p{
+    font-size: 18px;
+}
 .explodedlight img{
-    width:80%;
-    margin-left: 100px;
+    width:85%;
+    margin-left: 60px;
 }
 .instructionwords{
     margin-top: 150px;
@@ -454,19 +461,17 @@ transition:2s;
 .museum p{
     text-align: center;
     color: rgb(75, 73, 73);
+    font-size: 18px;
+    margin:30px;
 }
 .museum h2{
     text-align: center;
     color: #FFAF20;
     }
-
-.museum p{
-    margin:30px;
-    color: rgb(75, 73, 73);
-}
 .onsale p{
     text-align: center;
     color: rgb(75, 73, 73);
+    font-size: 18px;
 }
 .onsale{
     text-align: center;
