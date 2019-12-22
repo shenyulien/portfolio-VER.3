@@ -943,7 +943,7 @@ margin-top: 220px;
 
 #plantp5 h4{
     position: absolute;
-    color: rgb(71, 168, 162);	
+    color: #6a9b00;	
     font-family: "Lucida Grande";	
     font-size: 72px;	
     line-height: 85px;
@@ -952,8 +952,8 @@ margin-top: 220px;
 }
 #plantp5 img{
     margin-top: 280px;
-    width: 750px;
-    margin-left: 400px;
+    width: 970px;
+    margin-left: 270px;
 
 }
 #plantp6 h4{
@@ -965,14 +965,14 @@ margin-top: 220px;
     margin-top: 50px;
 }
 #ppp6iconlist img{
-    width: 700px;
+    width: 850px;
     margin-top: 50px;
 }
 #ppp6color{
     text-align: right;
 }
 #ppp6color img{
-    width: 600px;
+    width: 750px;
     margin-top: 50px;
 }
 #ppp6typeface img{
@@ -992,23 +992,40 @@ margin-top: 220px;
     color: rgb(226, 137, 114);	
     font-family: "Lucida Grande";	
     font-size: 60px;
-    top: 20px;
+    top: 5px;
     left: 50px;
 }
 #ppp8app{
     position: absolute;
     width: 700px;
-    top: 465px;
+    top: 490px;
     left: 420px;
 }
 #ppp8device{
     position: absolute;
-    width: 850px;
-    top:100px;
-    left: 130px;
+    width: 990px;
+    top:80px;
+    left: 40px;
 }
 #plantp9{
     position: relative;
+}
+#plantp9 h4{
+    color: rgb(226, 137, 114);	
+    font-family: "Lucida Grande";	
+    font-size: 40px;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+#plantp9 p{
+    color: #4A4A4A;	
+    font-family: "Lucida Grande";	
+    font-size: 18px;	
+    line-height: 30px;
+    position: absolute;
+    top: 170px;
+    left: 500px;
 }
 #ppp9gif{
     position: absolute;
@@ -1017,7 +1034,7 @@ margin-top: 220px;
     top: 90px;
 }
 #plantp10bg{
-    width: 720px;
+    width: 890px;
     margin-left: 210px;
 }
 #plantp10content h4{
@@ -1032,40 +1049,40 @@ margin-top: 220px;
     line-height: 30px;
 }
 #plantp10content img{
-    width: 180px;
+    width: 160px;
 }
 #plantp10{
     position: relative;
 }
 #ppp10temp{
     position: absolute;
-    top: 220px;
-    left: 150px;
+    top: 140px;
+    left: 145px;
 }
 #ppp10tempcontent{
     position: absolute;
-    top: 180px;
+    top: 100px;
     left: 360px;
 }
 #ppp10water{
     position: absolute;
-    top: 450px;
+    top: 410px;
     left:150px;
 }
 #ppp10waterh4{
     position: absolute;
-    top: 440px;
+    top: 410px;
     left: 360px;
 }
 #ppp10waterp{
     position: absolute;
-    top: 490px;
+    top: 450px;
     left: 360px;
 }
 #ppp10ph{
     position: absolute;
-    left: 150px;
-    top: 660px;
+    left: 143px;
+    top: 680px;
 }
 #ppp10phh4{
     position: absolute;
@@ -1092,61 +1109,60 @@ margin-top: 220px;
 }
 #ppp11h4{
     position: absolute;
-    top: 50px;
+    top: -80px;
     left: 50px;
 }
 #ppp11sign{
     position: absolute;
-    top: 200px;
-    left: 480px;
+    top: 100px;
+    left: 370px;
 }
 #ppp11signimg{
     position: absolute;
     top: 60px;
     right: 20px;
-    width: 560px;
+    width: 700px;
 }
 #ppp11dashgif{
     position: absolute;
-    top: 153px;
-    left: 40px;
+    top: 20px;
+    left: 60px;
     width: 250px;
 }
 #ppp11dashimg{
     position: absolute;
-    top: 400px;
+    top: 540px;
     right: 0px;
-    width:870px;
+    width:970px;
 }
 #ppp11dash{
     position: absolute;
-    top: 340px;
-    left: 330px;
+    top: 600px;
+    left: 70px;
 }
 #ppp11calimg{
     position: absolute;
-    top: 860px;
-    width: 600px;
+    top: 1000px;
+    width: 580px;
     left: 0px;
-
 }
 #ppp11cal{
     position: absolute;
-    top: 760px;
+    top: 960px;
     left: 20px;
 }
 #ppp11setimg{
     position: absolute;
-    top: 860px;
-    right: 140px;
-    width: 400px;
+    top: 990px;
+    right: 10px;
+    width: 510px;
 }
 #ppp11set{
     position: absolute;
-    top: 760px;
+    top: 950px;
     left: 660px;    
 }
-#plantp12{
+/* #plantp12{
     position: relative;
 }
 #ppp12bg{
@@ -1158,7 +1174,7 @@ margin-top: 220px;
     top: 95px;
     left: 200px;
     width: 600px;
-}
+} */
 .kcsystitle h1{
     color: #013567;	
 }
