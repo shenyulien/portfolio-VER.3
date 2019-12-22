@@ -325,6 +325,11 @@ transition:2s;
 .yilanchair img{
     width: 100%;
 }
+.yummyslider{
+    width: 950px;
+    margin-left: 135px;
+    margin-top: 20px;
+}
 .yummyslider .slick-slide{
     height:100%!important;
 }
@@ -412,14 +417,20 @@ transition:2s;
     margin-left: 0px;
 }
 .designconceptwords{
-    margin-left: 10px;
-    margin-top: 120px;   
+    margin-left: 130px;
+    margin-top:70px;   
+}
+.lightslider{
+    width: 950px;
+    margin-left: 135px;
+    margin-top: 20px;
 }
 .lightslider .slick-slide{
     height:100%!important;
 }
 .shilogo img{
-    width: 100%;
+    width: 80%;
+    margin-top: 50px;
 }
 .lightexploded{
     width:70%;
@@ -517,8 +528,14 @@ margin-bottom: 50px;
 .group p{
     margin-bottom: 50px;
 }
+.yenmuslider{
+    width: 950px;
+    margin-left: 135px;
+    margin-top: 20px;
+}
 .yenmuslider .slick-slide{
     height:100%!important;
+    
 } 
 iframe{
     width:100%;
@@ -744,7 +761,7 @@ iframe{
     top: 85px;
 }
 #ufop8content img{
-    width: 250px;
+    width: 300px;
 }
 #ufop8content{
     position: relative;
@@ -763,18 +780,18 @@ iframe{
 }
 #ufop8phone1{
     position: absolute;
-    top: -2000px;
+    top: -2080px;
     left:220px;    
 }
 #ufop8phone2{
     position: absolute;
-    top: -1850px;
+    top: -1950px;
     right:220px;
 }
 #ufop8phone3{
     position: absolute;
     top: -1250px;
-    left:190px;
+    left:100px;
 }
 #ufop8phone4{
     position: absolute;
@@ -799,7 +816,7 @@ iframe{
 #ufop8phone6{
     position: absolute;
     top: -650px;
-    right:170px;
+    right:100px;
 }
 #ufop8phone5words1{
     position: absolute;
