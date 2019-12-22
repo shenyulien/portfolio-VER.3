@@ -432,11 +432,18 @@ transition:2s;
     width: 80%;
     margin-top: 50px;
 }
-.lightexploded{
-    width:70%;
+.explodedlight{
+    display:grid;
+    grid-template-columns:60% 40%; 
+    text-align: left;    
+    margin-bottom: 50px;
+}
+.explodedlight img{
+    width:80%;
+    margin-left: 100px;
 }
 .instructionwords{
-    margin-bottom: 20px;
+    margin-top: 150px;
 }
 .museumslider .slick-slide{
     height:100%!important;
