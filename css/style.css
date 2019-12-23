@@ -954,7 +954,7 @@ iframe{
 #ppp3phonewords img{
     position: absolute;
     width: 250px;
-    left: 620px;
+    left: 600px;
     top: 1170px;   
 }
 #plantp4{
@@ -1139,7 +1139,12 @@ margin-top: 220px;
 #ppp11h4{
     position: absolute;
     top: 80px;
-    left: 190px;
+    left: 170px;
+}
+#ppp11h4-2{
+    position: absolute;
+    top: 80px;
+    right: 140px;
 }
 /* #ppp11sign{
     position: absolute;
