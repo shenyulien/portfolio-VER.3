@@ -1654,6 +1654,39 @@ margin-top: 220px;
     top: 3800px;
     left: 50px;
 }
+#asp6diary{
+    width: 530px;
+    top: 3990px;
+    left: 50px;
+}
+#astheappcan{
+    top: 4180px;
+    right: 50px;
+}
+#asp6record{
+    width: 750px; 
+    top: 4510px;
+    right: 50px;
+}
+#asinaddition{
+    top: 4700px;
+    left: 60px;
+}
+#asp6reminder{
+    width: 280px;
+    top: 5000px;
+    left: 60px;
+}
+#astheappallows{
+    top: 5200px;
+    right: 50px;
+}
+#asp6setting{
+    width: 850px;
+    top: 5580px;
+    right: 50px;
+}
+
 /* 作品頁 */
 .workhover img{
     width: 280px;
